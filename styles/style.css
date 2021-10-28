@@ -1,0 +1,102 @@
+h1,
+h2,
+h3,
+h4 {
+    font-family: Red Hat Display;
+}
+
+h2,
+h3,
+h4 {
+    font-style: normal;
+    font-weight: 500;
+}
+
+h1 {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height, or 125% */
+    text-decoration-line: underline;
+    color: #222222;
+}
+
+h2 {
+    font-size: 56px;
+    line-height: 70px;
+    /* or 125% */
+    color: #000000;
+}
+
+h3 {
+    font-size: 40px;
+    line-height: 60px;
+    /* identical to box height, or 150% */
+    color: #222222;
+}
+
+h4 {
+    font-size: 30px;
+    line-height: 40px;
+    /* identical to box height, or 133% */
+    color: #222222;
+}
+
+.menu {
+    text-decoration: none;
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+    color: #222222;
+}
+
+#discover {
+    position: absolute;
+    width: 248px;
+    height: 30px;
+    left: 1060px;
+    top: 1210px;
+
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height, or 125% */
+
+    text-decoration-line: underline;
+
+    color: #222222;
+}
+
+p.site {
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+
+
+    color: #555555;
+}
+
+#statistics {
+    background: #FDF8F5;
+}
+
+.menu:hover {
+    text-decoration: underline
+}
+
+a:visited {
+    color: #900060;
+}
+
+a:link {
+    color: #0000d0;
+}
